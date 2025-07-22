@@ -42,7 +42,7 @@ After cleaning the data, a **Pivot Table** and corresponding **chart** were crea
    - Used calculated fields to analyze session durations across different user groups.
 
 3. **What is the correlation between the bounce rate and the revenue?**
-   - Explored relationship using grouped data and visual correlation via charting.
+   - Explored relationship using grouped data and visual correlation via chart.
 
 4. **What is the distribution of the operating system used by the visitors?**
    - Created a visual breakdown of OS usage (e.g., Windows, macOS, Android, iOS) among visitors.
@@ -53,16 +53,6 @@ After cleaning the data, a **Pivot Table** and corresponding **chart** were crea
 
 - **Microsoft Excel** (Power Query, PivotTables, Charts, Data Types)
 - **Data Cleaning**: Power Query Editor
-- **Visualization**: Bar and pie charts within Excel
+- **Visualization**: line chart within Excel
 - **File Type**: `.xlsx`, `.csv`
 
----
-
-## 📷 Screenshots
-
-> _Include screenshots of your pivot table, chart, or dashboard here if possible._
-
-```md
-![Pivot Table](images/pivot_table_screenshot.png)
-![Chart](images/chart_screenshot.png)
-****
