@@ -1,58 +1,15 @@
-# 📊 Google AdSense Web Traffic Analysis (Excel)
+### 📊 Google AdSense Web Traffic Analysis (Excel)
 
-This project presents an data analysis of web traffic using data exported from **Google AdSense**, processed and visualized using **Microsoft Excel**.
+Analyzed 12,000+ rows of Google AdSense traffic data to uncover user behavior and website performance using Excel tools like Power Query and PivotTables.
 
----
+**🔍 Key Insights:**
+- Conversion rate based on total visitors vs purchases
+- Average session duration by user group
+- Bounce rate vs. revenue correlation
+- Visitor operating system distribution
 
-## 🔍 Objective
+**🧼 Data Cleaning:** Imported raw `.csv`, removed 400+ duplicates, assigned data types, cleaned time fields, and structured the dataset using Power Query.
 
-To analyze visitor behavior and website performance using key metrics such as **bounce rate**, **session time**,and **conversion rate**, using Excel tools like **Power Query**, **PivotTables**, and **charts**.
+**🛠️ Tools Used:** Excel, Power Query, PivotTables, Charts, Calculated Fields
 
----
-
-## 📂 Data Source
-
-- **Source**: Google AdSense export
-- **Format**: `.csv` file
-- **Size**: ~12,000+ rows
-
----
-
-## 🧼 Data Cleaning (Using Power Query)
-
-The following steps were taken to clean and prepare the dataset:
-
-- **Imported** the raw `.csv` file into Excel using **Power Query**
-- **Transformed** comma-separated values into a structured Excel **table with over 12,000 rows**
-- **Assigned appropriate data types** to each column (e.g., Date, Decimal Number, Text)
-- **Removed unnecessary columns** that did not contribute to the analysis
-- **Removed 400+ duplicate rows** to ensure accuracy
-- **Converted time columns** (initially in numeric format) into **readable minutes and seconds**
-
----
-
-## 📈 Analysis Performed
-
-After cleaning the data, a **Pivot Table** and corresponding **chart** were created to answer the following key business questions:
-
-1. **What is the proportion of visitors who made a purchase?**
-   - Calculated the conversion rate by comparing total visitors vs. purchase completions.
-
-2. **What is the average time spent on the website by the visitors?**
-   - Used calculated fields to analyze session durations across different user groups.
-
-3. **What is the correlation between the bounce rate and the revenue?**
-   - Explored relationship using grouped data and visual correlation via chart.
-
-4. **What is the distribution of the operating system used by the visitors?**
-   - Created a visual breakdown of OS usage (e.g., Windows, macOS, Android, iOS) among visitors.
-
----
-
-## 🛠️ Tools Used
-
-- **Microsoft Excel** (Power Query, PivotTables, Charts, Data Types)
-- **Data Cleaning**: Power Query Editor
-- **Visualization**: line chart within Excel
-- **File Type**: `.xlsx`, `.csv`
-
+📂 *Includes structured Excel file with visual breakdowns and metrics*
