@@ -24,7 +24,7 @@ Data analysis and visualization using Excel, including pivot tables, formulas, a
 ### 🗃️ SQL Projects
 Querying, cleaning, and analyzing data using SQL.  
 Includes sample queries and insights from databases.  
-➡️ [Go to SQL Projects](./SQL)
+➡️ [Go to SQL Projects](./MYSQL)
 
 ---
 
