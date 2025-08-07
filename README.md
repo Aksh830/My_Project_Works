@@ -33,5 +33,3 @@ This portfolio is designed to:
 
 Feel free to explore the folders and preview the work through the included images and files.
 
----
-
