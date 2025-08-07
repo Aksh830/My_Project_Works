@@ -1,2 +1,2 @@
-## 📸 Dashboard Preview
+## ℀ Income/Expenses Dashboard
 ![Dashboard Preview](./Dashboard.jpg)
