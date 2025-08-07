@@ -1,7 +1,7 @@
 # 💼 Data Portfolio
 
 Welcome to my **Data Analytics Portfolio**!  
-This repository showcases a variety of projects that demonstrate my skills in data analysis, visualization, and storytelling using tools like **Excel**, **SQL**, **Power BI**, and **Tableau**.
+This repository showcases a variety of projects that demonstrate my skills in data analysis, visualization, and storytelling using tools like **Excel**, **Power BI**, and **Tableau**.
 
 ---
 
