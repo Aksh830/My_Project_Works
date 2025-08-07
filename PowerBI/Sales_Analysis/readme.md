@@ -1,2 +1,2 @@
-## 📸 Dashboard Preview
+## 🧾 Sales Dashboard
 ![Dashboard Preview](./Dashboard.png)
