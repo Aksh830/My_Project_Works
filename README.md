@@ -21,10 +21,6 @@ Project folders contain dashboard images and insights.
 Data analysis and visualization using Excel, including pivot tables, formulas, and dashboards.  
 ➡️ [Go to Excel Projects](./Excel_Project)
 
-### 🗃️ SQL Projects
-Querying, cleaning, and analyzing data using SQL.  
-Includes sample queries and insights from databases.  
-➡️ [Go to SQL Projects](./MYSQL)
 
 ---
 
