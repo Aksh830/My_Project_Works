@@ -10,7 +10,8 @@ This repository showcases a variety of projects that demonstrate my skills in da
 ### 📊 Power BI Projects
 Interactive dashboards and reports built using Power BI.  
 Each folder includes visuals and insights from real or simulated datasets.  
-➡️ [Go to Power BI Projects](./PowerBI)
+➡️ [Go to Power BI Projects](./My_Project_Works
+/Power BI/)
 
 ### 📈 Tableau Projects
 Visual analytics and storytelling with Tableau.  
