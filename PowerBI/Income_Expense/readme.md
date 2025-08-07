@@ -1,2 +1,2 @@
-## 📸 Dashboard Previews
-![Dashboard Preview](./Dashboard.png)
+## 📸 Dashboard Preview
+![Dashboard Preview](./Dashboard.jpg)
