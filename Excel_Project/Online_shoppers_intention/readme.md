@@ -13,3 +13,4 @@ Analyzed 12,000+ rows of Google AdSense traffic data to uncover user behavior an
 **🛠️ Tools Used:** Excel, Power Query, PivotTables, Charts, Calculated Fields
 
 📂 *Includes structured Excel file with visual breakdowns and metrics*
+![Preview](./Screenshot.png)
