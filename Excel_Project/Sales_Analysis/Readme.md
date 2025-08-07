@@ -11,3 +11,4 @@ A business-focused sales analysis project using Microsoft Excel. Transformed raw
 **🛠️ Tools Used:** Excel, Power Pivot, PivotTables, Pivot Charts, KPIs, Calculated Fields
 
 **📂 Data Prep:** Cleaned and structured data, removed nulls, defined relationships, and built a star schema model in Power Pivot.
+![Preview](./Dashboard.png)
