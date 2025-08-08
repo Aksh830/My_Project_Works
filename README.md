@@ -1,4 +1,4 @@
-# 💼 Data Portfolio
+# 💼 About This Portfolio
 
 Welcome to my **Data Analytics Portfolio**!  
 This repository showcases a variety of projects that demonstrate my skills in data analysis, visualization, and storytelling using tools like **Excel**, **Power BI**, and **Tableau**.
@@ -21,15 +21,6 @@ Project folders contain dashboard images and insights.
 Data analysis and visualization using Excel, including pivot tables, formulas, and dashboards.  
 ➡️ [Go to Excel Projects](./Excel_Project)
 
-
----
-
-## 📌 About This Portfolio
-
-This portfolio is designed to:
-- Highlight my technical skills in data tools
-- Demonstrate problem-solving and analytical thinking
-- Showcase clean, professional data visualizations
 
 Feel free to explore the folders and preview the work through the included images and files.
 
