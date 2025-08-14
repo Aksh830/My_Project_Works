@@ -43,6 +43,12 @@ MODIFY sale_amount DECIMAL(10,2);
 -- changing date 
 select *, str_to_date('column','%Y/%m/%d') from table_1;
 
+-- Spliting columns by number of character
+SELECT 
+    *,
+    SUBSTRING(column_1, 1, 3) AS first_name
+FROM your_table;
+
 
 -- Spliting columns with separater
 SELECT 
