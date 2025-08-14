@@ -63,6 +63,15 @@ SET customer_id = CONCAT('CUST-', customer_id, '-2025');
 
 -- Replacing values 
 SELECT REPLACE(column_1, '123', 'XYZ') from table_1;
+-- OR
+update table_1
+    set column_1 = 'value'
+    where column_1 like 'value%';
+-- OR
+update table_1
+    set column_1 = 'value'
+    where column_1 in ('value_1','value_2','value_3');
+    
 -- Replacing when pattern is given (advance)
 SELECT REGEXP_REPLACE(column_1, '[0-9]+', 'XYZ')from table_1;
 -- Result: abcXYZdefXYZ
