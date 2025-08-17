@@ -1,3 +1,4 @@
+#                This is a Data Cleaning Project
 -- 1. Data Cleaning Exchange_rates table
 SELECT * FROM Global_electronics_retail.exchange_rates;
 
