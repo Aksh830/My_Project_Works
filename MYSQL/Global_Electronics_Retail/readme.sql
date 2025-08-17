@@ -1,3 +1,6 @@
+-- This is Data Cleaning Project of Global_Electronics_Retail dataset
+-- Raw data files are available above
+
 -- 1. Data Cleaning Exchange_rates table
 SELECT * FROM Global_electronics_retail.exchange_rates;
 
