@@ -1,22 +1,27 @@
-MYSQL actions:
-Created New Schema.
-Imported data of 149,116 transaction records.
-Cleaned, Standardized and assigned data type.
-did Exploratory Data Analysis (EDA) to gain deeper understanding of data.
-Created views for hourly,daily,monthly and total sales trends.
-Created view to get average, minimum and maximum order values.
-Created view to gain insights about most/least selling product and sales trends by store.
+# MySQL Sales Analysis Project
 
-Exported data to CSV file.
+## MySQL Actions
+- Created a new schema and imported **149,116 transaction records**  
+- Cleaned, standardized, and assigned appropriate data types  
+- Performed **Exploratory Data Analysis (EDA)** to understand the dataset  
+- Built SQL views to analyze:
+  - Hourly, daily, monthly, and total sales trends  
+  - Average, minimum, and maximum order values  
+  - Best-selling and least-selling products, as well as sales trends by store  
+- Exported processed data to **CSV** for further use  
 
-Imported data in Excel to analyse trend further and built dashboard
+## Excel Analysis & Dashboard
+- Imported the cleaned dataset into Excel  
+- Conducted additional trend analysis  
+- Designed an interactive **dashboard** for visualization and insights  
 
-Key Findings:
-All 3 Stores have almost same sales value.
-Montly sales has consistently gone up from Jan to June, except month of February.
-Times from 7 am to 10 am are the most important for the Business.
-Coffee and Tea are the most important catagories, totalling to £466,358, driving over 66.7% of total sales, out of 9 catagories.
-Average order value is £4.69.
+## Key Findings
+- All **3 stores** generated nearly equal sales  
+- **Monthly sales** increased consistently from **January to June**, except for February  
+- **7 AM – 10 AM** is the most critical time window for sales  
+- **Coffee and Tea** are the top-performing categories, generating **£466,358** (~66.7% of total sales across 9 categories)  
+- The **average order value** is **£4.69**  
+
 ![Dashboard](./Dashboard.png)
 
 
