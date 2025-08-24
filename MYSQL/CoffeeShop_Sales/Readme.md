@@ -17,7 +17,7 @@ Montly sales has consistently gone up from Jan to June, except month of February
 Times from 7 am to 10 am are the most important for the Business.
 Coffee and Tea are the most important catagories, totalling to £466,358, driving over 66.7% of total sales, out of 9 catagories.
 Average order value is £4.69.
-[Dashboard](./Dashboard.png)
+![Dashboard](./Dashboard.png)
 
 
 
